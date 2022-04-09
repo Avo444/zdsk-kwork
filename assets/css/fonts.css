@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Stolzl-medium";
+    src: url("../fonts/stolzl/medium/stolzl.ttf"); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+}
+
+@font-face {
+    font-family: "Stolzl-regular";
+    src: url("../fonts/stolzl/regular/stolzl-regular.ttf"); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+}
